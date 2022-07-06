@@ -19,7 +19,7 @@ import org.hibernate.cfg.Configuration;
 
 /**
  *
- * @author GRACE
+ * @author Kabera Christian
  */
 public class StudentDB {
 
